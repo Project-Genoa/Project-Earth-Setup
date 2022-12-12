@@ -8,5 +8,5 @@ How to use:
 4. When prompted, select the installation directory and the jackcaver API release file you downloaded
 5. The script will now install and setup Project Earth for you
 
-Note: You need Java 8 and .NET 5.0 installed
+Note: You need Java 8 and .NET 5.0 installed<br/>
 also, this script is optimized for Windows, it has not been tested on other platforms
