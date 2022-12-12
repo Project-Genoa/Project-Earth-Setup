@@ -19,7 +19,7 @@ libprojectearthsetup.pause()
 installationLocation = libprojectearthsetup.selectFolder()
 
 print("\n")
-print("Please select artifact file")
+print("Please select Jackcaver API artifact/release file")
 libprojectearthsetup.pause()
 artifactFile = libprojectearthsetup.selectFile()
 
