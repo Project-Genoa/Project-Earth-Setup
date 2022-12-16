@@ -1,4 +1,7 @@
 # Project-Earth-Setup
+A much worse version of [this](https://github.com/SuperMatejCZ/ProjectEarthLauncher)
+
+
 Project Earth Setup Utility lets you quickly setup a Project Earth instance
 
 How to use:
